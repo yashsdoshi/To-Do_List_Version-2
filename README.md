@@ -48,6 +48,7 @@ npm i
 ![one](https://user-images.githubusercontent.com/39629707/212014620-3c72ddb9-6a20-4d72-bdc3-50f7d8ff4878.gif)
 
 ### :octocat: Example prewview of website:
+![one1](https://user-images.githubusercontent.com/39629707/212015196-fc75b606-83c5-4ad0-b292-679503e676d0.gif)
 
 ### :octocat: Example prewview of website:
 
