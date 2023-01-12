@@ -52,7 +52,7 @@ npm i
 ### :octocat: Example prewview of website:
 
 ### :octocat: Note:
-I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Thanks!
+I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Special thanks to [@angelabauer](https://github.com/angelabauer). Thanks!
 <hr />
 <br />
 
