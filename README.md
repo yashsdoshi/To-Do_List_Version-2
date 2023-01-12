@@ -1,4 +1,4 @@
-# :octocat: `To Do List Version-2!` using `MongoDB`
+# :octocat: `To-Do List Version-2!` using `MongoDB`
 
 Based on my previous [To Do List Version-1](https://github.com/yashdoshi12/To_Do_List_Version-1). I have added Database to it!
 
