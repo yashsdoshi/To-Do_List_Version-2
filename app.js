@@ -15,9 +15,9 @@ const port = 3000
 const ItemSchema = new mongoose.Schema({ name: { type: String, required: [true, 'Product name is required']}});
 const ItemModel = mongoose.model('Item_List', ItemSchema)
 
-const Item_1 = new ItemModel({name: 'Car'});
-const Item_2 = new ItemModel({name: 'Bike'});
-const Item_3 = new ItemModel({name: 'Boat'});
+const Item_1 = new ItemModel({name: 'Task-1'});
+const Item_2 = new ItemModel({name: 'Task-2'});
+const Item_3 = new ItemModel({name: 'Task-3'});
 const DefaultItems = [Item_1, Item_2, Item_3];
 
 const listschema = { name: String, items: [ItemSchema]};
