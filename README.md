@@ -53,7 +53,6 @@ npm i
 ### :octocat: Example prewview of database:
 ![Screenshot 2023-01-12 135657](https://user-images.githubusercontent.com/39629707/212015948-fa04c578-b629-4b55-889b-a6f57d0919da.jpg)
 
-### :octocat: Example prewview of database:
 
 ### :octocat: Note:
 I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Special thanks to [@angelabauer](https://github.com/angelabauer). Thanks!
