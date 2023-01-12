@@ -2,7 +2,7 @@
 
 Based on my previous [To Do List Version-1](https://github.com/yashdoshi12/To_Do_List_Version-1). I have added Database to it!
 
-This is a simple website made using,
+This is a website made using,
 
 1. <b>`Node.js`</b> 
 2. <b>`express.js`</b>
