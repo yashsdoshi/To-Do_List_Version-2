@@ -42,8 +42,10 @@ npm i
 
 
 ### :octocat: Example prewview of website:
+![Screenshot 2023-01-12 134336](https://user-images.githubusercontent.com/39629707/212014550-b62de0c5-e000-4ab2-a827-960c77582160.jpg)
 
 ### :octocat: Example prewview of website:
+![one](https://user-images.githubusercontent.com/39629707/212014620-3c72ddb9-6a20-4d72-bdc3-50f7d8ff4878.gif)
 
 ### :octocat: Example prewview of website:
 
