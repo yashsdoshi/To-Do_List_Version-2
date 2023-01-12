@@ -43,9 +43,13 @@ npm i
 
 ### :octocat: Example prewview of website:
 
+### :octocat: Example prewview of website:
 
-### :octocat: Output of above example(After clicking on "Go!" Button):
+### :octocat: Example prewview of website:
 
+### :octocat: Example prewview of website:
+
+### :octocat: Example prewview of website:
 
 ### :octocat: Note:
 I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Thanks!
