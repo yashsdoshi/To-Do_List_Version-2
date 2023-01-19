@@ -50,7 +50,7 @@ npm i
 ### :octocat: Example preview of website:
 ![one1](https://user-images.githubusercontent.com/39629707/212015196-fc75b606-83c5-4ad0-b292-679503e676d0.gif)
 
-### :octocat: Example prewview of database:
+### :octocat: Example preview of database:
 ![Screenshot 2023-01-12 135657](https://user-images.githubusercontent.com/39629707/212015948-fa04c578-b629-4b55-889b-a6f57d0919da.jpg)
 
 
