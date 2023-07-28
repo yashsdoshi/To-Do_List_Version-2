@@ -55,7 +55,7 @@ npm i
 
 
 ### :octocat: Note:
-I made this website while learning Full-Stack Web Development and please feel free to suggest any changes. Special thanks to [@angelabauer](https://github.com/angelabauer). Thanks!
+Special thanks to [@angelabauer](https://github.com/angelabauer). Thanks!
 <hr />
 <br />
 
